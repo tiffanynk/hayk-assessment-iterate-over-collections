@@ -12,8 +12,8 @@ end
 
 companies = [
     Company.new('Alpha', 30),
-    Company.new('Beta, 300),
-    Company.new('Delta, 3000)
+    Company.new('Beta', 300),
+    Company.new('Delta', 3000)
 ]
 ```
 
